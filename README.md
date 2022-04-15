@@ -54,15 +54,22 @@ votre planche de tendance. Ses éléments peuvent être des captures d’écrans
 couleurs, des photographies d’ambiances, des échantillons de matières, des croquis et 
 éventuellement du texte.
 Itération #A.3 Design System
+
+![exemple_designe.png](exemple_designe.png)
+
 - Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les 
 personnes impliquées où qui le seront à l’avenir.
 - Définir la charte graphique comme l’exemple ci-dessous
+
 Itération #A.4 Maquetter le Header
 - Créer la maquette graphique du header de votre page web en choisissant parmi les 2 zoning 
 proposés: 
 o 1 composition graphique dans Photoshop
 o Présence de 2 à 3 textes
 o Intégration à minima d’un web font et de deux au maximum.
+
+![ex1.png](ex1.png)
+
 Itération #A.5 Zoning contenu principal
 - Faite une proposition de zoning des différentes sections de votre contenu. 
 - Présenter vos zoning à l’ensemble de votre promo pour validation
@@ -78,6 +85,10 @@ o 1 composition graphique dans Photoshop
 o Présence de 2 à 3 textes
 o Intégration à minima d’un web font et de deux au maximum.
 o Présence du formulaire d’inscription à la newsletter
+
+![ex2.png](ex2.png)
+
+
 Itération #A.6 Responsive
 - Décliner la maquette au format Tablette et Mobile
 Itération #A.8 Backoffice
