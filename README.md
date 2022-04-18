@@ -55,7 +55,7 @@ couleurs, des photographies d’ambiances, des échantillons de matières, des c
 éventuellement du texte.
 Itération #A.3 Design System
 
-![exemple_designe.png](exemple_designe.png)
+![exemple_designe.png](/images_consignes/exemple_designe.png)
 
 - Choisir une convention de nommage, un vocabulaire facile à comprendre pour toutes les 
 personnes impliquées où qui le seront à l’avenir.
@@ -68,7 +68,7 @@ o 1 composition graphique dans Photoshop
 o Présence de 2 à 3 textes
 o Intégration à minima d’un web font et de deux au maximum.
 
-![ex1.png](ex1.png)
+![ex1.png](/images_consignes/ex1.png)
 
 Itération #A.5 Zoning contenu principal
 - Faite une proposition de zoning des différentes sections de votre contenu. 
@@ -86,7 +86,7 @@ o Présence de 2 à 3 textes
 o Intégration à minima d’un web font et de deux au maximum.
 o Présence du formulaire d’inscription à la newsletter
 
-![ex2.png](ex2.png)
+![ex2.png](/images_consignes/ex2.png)
 
 
 Itération #A.6 Responsive
