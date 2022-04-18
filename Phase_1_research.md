@@ -108,7 +108,7 @@ Un site web existe pour le merchandising et la biographie de l’artiste ainsi q
 
 >A.3 - Planche de tendances “moodboard”
 
- ![Moodboard_Projet_Acs.png](/images_consignes/Moodboard_Projet_Acs.png)
+![Moodboard_Projet_Acs.png](/images_consignes/Moodboard_Projet_Acs.png)
 
 
 >A.4 - Design System
