@@ -39,7 +39,7 @@
 
 
 
- ![Giger_profile.jpg](/images_consignes/Giger_profile.jpg)
+![Giger_profile.jpg](/images_consignes/Giger_profile.jpg)
 
 >A.1.a - Analyse
 
@@ -52,6 +52,7 @@ Après un emploi de décorateur d'intérieur, il devient artiste à temps plein 
 Connu pour ses créatures futuristes, il s’est rendu célèbre en participant à la réalisation du film « Alien » dont il a créé le monstre et qui lui a valu un Oscar à Hollywood en 1980.
 - L'œuvre de Mr Giger est avant-gardiste, et met en exergue sa thématique principale, " la biomécanique".
 - Depuis le 20 juin 1998, il existe un musée HR Giger dans le bourg médiéval de Gruyères en Suisse, en face duquel un café est entièrement décoré de sculptures biomécaniques. 35 000 Visiteur par ans.
+#
 
 
 >A.1.b - Identité visuelle
