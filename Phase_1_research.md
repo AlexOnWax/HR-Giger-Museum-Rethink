@@ -19,9 +19,17 @@ Connu pour ses créatures futuristes, il s’est rendu célèbre en participant 
 ## A.1.b - Identité visuelle
 
 Un univers graphique avant-gardiste très mature ou l’artiste dévoile ses visions obsessionnelles alliant psychédélisme, horreur, érotisme et biomécanique dans un thème de couleurs très sombres.
-La thématique du musée n'est d’ailleurs pas recommandée aux mineurs et aux personnes sensibles.
+
 
  ![giger_design.jpg](/images_consignes/giger_design.jpg)
+ #
+ Le "Bébé de machine de naissance" est utilisé comme principal logo du site.
+ #
+ ![giger_design.jpg](/images_consignes/Logo_Giger_Museum_1.PNG)
+ ![giger_design.jpg](/images_consignes/Logo_Giger_Museum_2.PNG)
+ ![giger_design.jpg](/images_consignes/Logo_Giger_Museum_Giger_3.PNG)
+#
+
 
 
 
@@ -36,7 +44,18 @@ La thématique du musée n'est d’ailleurs pas recommandée aux mineurs et aux 
 
 
  ## A.1.c - Stratégie digitale
-Un site web existe pour le merchandising et la biographie de l’artiste ainsi qu’un site concernant directement le musée, mais ils ont selon moi très mal vieilli, l’expérience utilisateur est très brouillonne pour 2022.
+
+Un site web existe pour le merchandising et la biographie de l’artiste ainsi qu’un site concernant directement le musée, mais ils ont très mal vieilli, l’expérience utilisateur est très brouillonne pour 2022.
+
+Reseau Sociaux :
+
+- Une page Facebook
+- Une page Instagram
+- Une page Twitter
+
+
+
+
 
 
 
@@ -67,7 +86,37 @@ Un site web existe pour le merchandising et la biographie de l’artiste ainsi q
 
 ## A.2 - Cahier des charges
 
+AlexOnWax développement est une jeune entreprise de développement web en freelance.
+Le projet est de repenser le site web Du musée HR Giger, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 ( meilleur intercation et experience utilisateur, un design plus proche des tendances actuelles)
+ 
+La cible :
+Vise les fans d'Alien, d'art, d'univers sombre et trash.
+La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles. De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir erotique.
+
+Etat des lieux du site actuel https://www.hrgigermuseum.com :
+
+- Un Web-shop
+- Un onglet News
+- Un onglet Tour virtuel obsolète
+- Un onglet concernant les expositions passés et à venir
+- Une biographie
+- Un onglet presentation du musée (description et accés)
+- Un onglet Video 
+- Un onglet avec les horaires et dates d'ouverture
+- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée
+
+
+
 ## A.3 - Planche de tendances “moodboard”
+Tendances actuelle des sites de musée:
+
+https://www.louvre.fr/
+https://www.musee-rodin.fr/
+https://www.musee-orangerie.fr/fr
+https://www.musee-orsay.fr/fr
+Les sites ci-dessus ont un designe dans l'air tu temps, de la lisibilité...
+
+Moodboard univers Giger :
 
 ![Moodboard_Projet_Acs.png](/images_consignes/Moodboard_Projet_Acs.png)
 
