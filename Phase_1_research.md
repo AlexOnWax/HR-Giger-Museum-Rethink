@@ -1,47 +1,8 @@
 # Phase 1
->Sommaire de la phase 1
-
-
-
-- A.1 – Analyse
-
-- A.2 - Cahier des charges
-
-- A.3 - Planche de tendances “moodboard”
-
-- A.4 - Design System
-
-- A.5 - Maquetter le Header
-
-- A.6 - Zoning contenu principal
-
-- A.7 - Maquetter le contenu principal
-
-- A.8 - Maquetter le pied de page
-
-- A.9 – Responsive
-
-- A.8 – Backoffice
-
-- A.9 Responsive du backoffice 
-
-- A.10 Conception de la newsletter 
-#
-
-
-
-
-
-
-
-
-
-
-
 
 ![Giger_profile.jpg](/images_consignes/Giger_profile.jpg)
 
->A.1.a - Analyse
+## A.1.a - Analyse
 
 - Hans Ruedi (à l'origine Rudolf) Giger, plus connu sous l'acronyme HR Giger, (né à Coire, en Suisse, le 5 février 1940, et mort le 12 mai 2014 à Zurich, en Suisse) est un plasticien, graphiste, illustrateur, sculpteur et designer suisse.
 
@@ -55,7 +16,7 @@ Connu pour ses créatures futuristes, il s’est rendu célèbre en participant 
 #
 
 
->A.1.b - Identité visuelle
+## A.1.b - Identité visuelle
 
 Un univers graphique avant-gardiste très mature ou l’artiste dévoile ses visions obsessionnelles alliant psychédélisme, horreur, érotisme et biomécanique dans un thème de couleurs très sombres.
 La thématique du musée n'est d’ailleurs pas recommandée aux mineurs et aux personnes sensibles.
@@ -74,7 +35,7 @@ La thématique du musée n'est d’ailleurs pas recommandée aux mineurs et aux 
 
 
 
->A.1.c - Stratégie digitale
+ ## A.1.c - Stratégie digitale
 Un site web existe pour le merchandising et la biographie de l’artiste ainsi qu’un site concernant directement le musée, mais ils ont selon moi très mal vieilli, l’expérience utilisateur est très brouillonne pour 2022.
 
 
@@ -104,23 +65,24 @@ Un site web existe pour le merchandising et la biographie de l’artiste ainsi q
 
 
 
->A.2 - Cahier des charges
+## A.2 - Cahier des charges
 
->A.3 - Planche de tendances “moodboard”
+## A.3 - Planche de tendances “moodboard”
 
 ![Moodboard_Projet_Acs.png](/images_consignes/Moodboard_Projet_Acs.png)
 
 
->A.4 - Design System
+## A.4 - Design System
 
 
->A.5 - Maquetter le Header
->A.6 - Zoning contenu principal
->A.7 - Maquetter le contenu principal
->A.8 - Maquetter le pied de page
->A.9 – Responsive
->A.8 – Backoffice
->A.9 Responsive du backoffice
->A.10 Conception de la newsletter
+## A.5 - Maquetter le Header
+
+## A.6 - Zoning contenu principal
+## A.7 - Maquetter le contenu principal
+## A.8 - Maquetter le pied de page
+## A.9 – Responsive
+## A.8 – Backoffice
+## A.9 Responsive du backoffice
+## A.10 Conception de la newsletter
 
 
