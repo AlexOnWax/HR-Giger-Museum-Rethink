@@ -87,35 +87,58 @@ Reseau Sociaux :
 ## A.2 - Cahier des charges
 
 AlexOnWax développement est une jeune entreprise de développement web en freelance.
-Le projet est de repenser le site web Du musée HR Giger, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 ( meilleur intercation et experience utilisateur, un design plus proche des tendances actuelles)
+
+Le projet est de repenser le site web Du musée HR Giger, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 (meilleur interaction et expérience utilisateur, un design plus proche des tendances actuelles) **Important : le rendre Responsive!**
  
-La cible :
+>La cible :
 Vise les fans d'Alien, d'art, d'univers sombre et trash.
-La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles. De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir erotique.
+La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles. De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir érotique.
 
-Etat des lieux du site actuel https://www.hrgigermuseum.com :
 
-- Un Web-shop
-- Un onglet News
-- Un onglet Tour virtuel obsolète
-- Un onglet concernant les expositions passés et à venir
-- Une biographie
-- Un onglet presentation du musée (description et accés)
-- Un onglet Video 
-- Un onglet avec les horaires et dates d'ouverture
-- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée
-
+>Etat des lieux du site actuel https://www.hrgigermuseum.com :
+>- Un Web-shop
+>- Un onglet News
+>- Un onglet Tour virtuel obsolète
+>- Un onglet concernant les expositions passés et à venir
+>- Une biographie
+>- Un onglet presentation du musée (description et accés)
+>- Un onglet Video 
+>- Un onglet avec les horaires et dates d'ouverture
+>- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée
+>- NON RESPONSIVE !!!
 
 
 ## A.3 - Planche de tendances “moodboard”
+
 Tendances actuelle des sites de musée:
 
 https://www.louvre.fr/
 https://www.musee-rodin.fr/
 https://www.musee-orangerie.fr/fr
 https://www.musee-orsay.fr/fr
-Les sites ci-dessus ont un designe dans l'air tu temps, de la lisibilité...
 
+Les sites ci-dessus ont un designe dans l'air tu temps, de la lisibilité...
+La planche de tendance
+
+>Il ressort plusieurs thèmes du travail de HR GIGER.
+
+Biomécanique,
+Horreur,
+Science-fiction,
+Corp humain, 
+Femmes,
+Formes Phalliques,
+pâleur des Corps,
+Alien,
+Traumatisme,
+Pénétration,
+Squelette,
+Mort.
+
+Des couleurs Sombres issues des différentes œuvres.
+
+Le "Bébé de machine de naissance" devrait être utiliser comme logo et icone.
+![giger_design.jpg](/images_consignes/b%C3%A9b%C3%A92.svg)
 Moodboard univers Giger :
 
 ![Moodboard_Projet_Acs.png](/images_consignes/Moodboard_Projet_Acs.png)
