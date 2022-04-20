@@ -127,13 +127,11 @@ Les sites ci-dessus ont un designe dans l'air tu temps, avec une trés bonne lis
 Biomécanique,
 Horreur,
 Science-fiction,
-Corp humain, 
+Corps transformés, 
 Femmes,
-Formes Phalliques,
-pâleur des Corps,
+Pâleur des Corps,
 Alien,
 Traumatisme,
-Pénétration,
 Squelette,
 Mort.
 
@@ -152,6 +150,8 @@ Moodboard univers Giger :
 ## A.5 - Maquetter le Header
 ![header-giger.png](/images_consignes/header-giger.PNG)
 ## A.6 - Zoning contenu principal
+![wireframe_giger.png](/images_consignes/wireframe_Giger.png)
+
 ## A.7 - Maquetter le contenu principal
 ## A.8 - Maquetter le pied de page
 ## A.9 – Responsive
