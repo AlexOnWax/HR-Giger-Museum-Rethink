@@ -87,8 +87,7 @@ Reseau Sociaux :
 ## A.2 - Cahier des charges
 
 AlexOnWax développement est une jeune entreprise de développement web en freelance.
-
-Le projet est de repenser le site web Du musée HR Giger, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 (meilleur interaction et expérience utilisateur, un design plus proche des tendances actuelles) **Important : le rendre Responsive!**
+Le projet a pour objectif d'améliorer la notoriété du musée en le repensant, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 (meilleur interaction et expérience utilisateur, un design plus proche des tendances actuelles) **Important : le rendre Responsive!**
  
 >La cible :
 Vise les fans d'Alien, d'art, d'univers sombre et trash.
@@ -105,7 +104,10 @@ La thématique du musée n'est pas recommandée aux mineurs et aux personnes sen
 >- Un onglet Video 
 >- Un onglet avec les horaires et dates d'ouverture
 >- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée
->- NON RESPONSIVE !!!
+
+
+Le test de validation W3C est mauvais, avec 169 erreurs et Warning. Il en ressort un gros manque de référencement des balises Alt non utilisées, l'utilisation de balises html obsolètes. Pas de feuilles CSS (le css est placé dans le html à l'intérieur des balises). NON RESPONSIVE !!!
+
 
 
 ## A.3 - Planche de tendances “moodboard”
@@ -145,7 +147,7 @@ Moodboard univers Giger :
 
 
 ## A.4 - Design System
-
+![Design_system.png](/images_consignes/design_system.PNG)
 
 ## A.5 - Maquetter le Header
 
