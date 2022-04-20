@@ -87,26 +87,27 @@ Reseau Sociaux :
 ## A.2 - Cahier des charges
 
 AlexOnWax développement est une jeune entreprise de développement web en freelance.
+
 Le projet a pour objectif d'améliorer la notoriété du musée en le repensant, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 (meilleur interaction et expérience utilisateur, un design plus proche des tendances actuelles) **Important : le rendre Responsive!**
  
 >La cible :
 Vise les fans d'Alien, d'art, d'univers sombre et trash.
-La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles. De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir érotique.
+La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles.
+De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir érotique.
 
 
 >Etat des lieux du site actuel https://www.hrgigermuseum.com :
->- Un Web-shop
->- Un onglet News
->- Un onglet Tour virtuel obsolète
->- Un onglet concernant les expositions passés et à venir
->- Une biographie
->- Un onglet presentation du musée (description et accés)
->- Un onglet Video 
->- Un onglet avec les horaires et dates d'ouverture
->- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée
+>- Un Web-shop,
+>- Un onglet News,
+>- Un onglet Tour virtuel obsolète,
+>- Un onglet concernant les expositions passés et à venir,
+>- Une biographie,
+>- Un onglet presentation du musée (horaires et accés),
+>- Un onglet Video,
+>- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée.
 
 
-Le test de validation W3C est mauvais, avec 169 erreurs et Warning. Il en ressort un gros manque de référencement des balises Alt non utilisées, l'utilisation de balises html obsolètes. Pas de feuilles CSS (le css est placé dans le html à l'intérieur des balises). NON RESPONSIVE !!!
+Le test de validation W3C est mauvais, avec 169 erreurs et Warning. Il en ressort un gros manque de référencement avec des balises Alt non utilisées, l'utilisation de balises html obsolètes. Pas de feuilles CSS (le css est placé dans le html à l'intérieur des balises). NON RESPONSIVE !!!
 
 
 
@@ -119,8 +120,7 @@ https://www.musee-rodin.fr/
 https://www.musee-orangerie.fr/fr
 https://www.musee-orsay.fr/fr
 
-Les sites ci-dessus ont un designe dans l'air tu temps, de la lisibilité...
-La planche de tendance
+Les sites ci-dessus ont un designe dans l'air tu temps, avec une trés bonne lisibilité...
 
 >Il ressort plusieurs thèmes du travail de HR GIGER.
 
@@ -150,7 +150,7 @@ Moodboard univers Giger :
 ![Design_system.png](/images_consignes/design_system.PNG)
 
 ## A.5 - Maquetter le Header
-
+![header-giger.png](/images_consignes/header-giger.PNG)
 ## A.6 - Zoning contenu principal
 ## A.7 - Maquetter le contenu principal
 ## A.8 - Maquetter le pied de page
