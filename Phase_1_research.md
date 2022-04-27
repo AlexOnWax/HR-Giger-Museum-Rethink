@@ -120,7 +120,7 @@ https://www.musee-rodin.fr/
 https://www.musee-orangerie.fr/fr
 https://www.musee-orsay.fr/fr
 
-Les sites ci-dessus ont un designe dans l'air tu temps, avec une trés bonne lisibilité...
+Les sites ci-dessus ont un design dans l'air tu temps, avec une trés bonne lisibilité...
 
 >Il ressort plusieurs thèmes du travail de HR GIGER.
 
