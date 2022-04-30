@@ -1,7 +1,7 @@
 # HR-Giger-Museum-Rethink
 
 
->Objectif 1
+# Objectif 1
 Réaliser la conception d’un site web, d’une interface d’administration et d’une newsletter au sein de 
 votre formation.
 Projet #1 :
