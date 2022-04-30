@@ -91,6 +91,7 @@ AlexOnWax développement est une jeune entreprise de développement web en freel
 Le projet a pour objectif d'améliorer la notoriété du musée en le repensant, en gardant son identité visuelle mais en l'améliorant et en l'optimisant avec les outils de 2022 (meilleur interaction et expérience utilisateur, un design plus proche des tendances actuelles) **Important : le rendre Responsive!**
  
 >La cible :
+
 Vise les fans d'Alien, d'art, d'univers sombre et trash.
 La thématique du musée n'est pas recommandée aux mineurs et aux personnes sensibles.
 De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique voir érotique.
@@ -99,12 +100,11 @@ De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique 
 >Etat des lieux du site actuel https://www.hrgigermuseum.com :
 >- Un Web-shop,
 >- Un onglet News,
->- Un onglet Tour virtuel obsolète,
 >- Un onglet concernant les expositions passés et à venir,
 >- Une biographie,
 >- Un onglet presentation du musée (horaires et accés),
->- Un onglet Video,
->- Une section "Tarot" qui ne fonctionne plus et a l'air abandonnée.
+>- Un onglet Video.
+
 
 
 Le test de validation W3C est mauvais, avec 169 erreurs et Warning. Il en ressort un gros manque de référencement avec des balises Alt non utilisées, l'utilisation de balises html obsolètes. Pas de feuilles CSS (le css est placé dans le html à l'intérieur des balises). NON RESPONSIVE !!!
@@ -148,11 +148,38 @@ Moodboard univers Giger :
 ![Design_system.png](/images_consignes/design_system.PNG)
 
 ## A.5 - Maquetter le Header
-![header-giger.png](/images_consignes/header-giger.PNG)
+![header-giger.png](/images_consignes/header_Giger.png)
 ## A.6 - Zoning contenu principal
-![wireframe_giger.png](/images_consignes/wireframe_Giger.png)
+
+>  Landing Page 
+![Wireframe_landing_page.png](/images_consignes/Wireframe_landing_page.png)
+
+>  News Page 
+![Wireframe_new.png](/images_consignes/Wireframe_new.png)
+
+>  Exhibition Page 
+![Wireframe_exhibition.png](/images_consignes/Wireframe_exhibition.png)
+
+> Access Page 
+![Wireframe_access.png](/images_consignes/Wireframe_access.png)
+
+> Short Movie page Page 
+![Wireframe_Movie.png](/images_consignes/Wireframe_Movie.png)
+
+>  Bio Page 
+![Wireframe_Bio.png](/images_consignes/Wireframe_Bio.png)
+
+>  Tickets Page 
+![Wireframe_tickets.png](/images_consignes/Wireframe_tickets.png)
 
 ## A.7 - Maquetter le contenu principal
+> Pour commencer la page d'accueil
+![Maquette_Landing-space_1.png](/images_consignes/Maquette_Landing-space_1.png)
+![Maquette_Landing-space_2.png](/images_consignes/Maquette_Landing-space_2.png)
+![Maquette_Landing-space_3.png](/images_consignes/Maquette_Landing-space_3.png)
+![Maquette_Landing-space_4.png](/images_consignes/Maquette_Landing-space_4.png)
+
+
 ## A.8 - Maquetter le pied de page
 ## A.9 – Responsive
 ## A.8 – Backoffice
