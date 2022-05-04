@@ -4,11 +4,14 @@
 # Objectif 1
 Réaliser la conception d’un site web, d’une interface d’administration et d’une newsletter au sein de 
 votre formation.
-Projet #1 :
+
+>Projet #1 :
+
  Choisissez un sujet qui vous tient à cœur dans les 2 domaines proposés ci-dessous: 
  Touristique (une ville, un monument, un pays, un domaine skiable, un lac, etc.)
   Artistique (musicien, sculpteur, architecte, artisanat d’art, plasticien, designer, 
 réalisateur, etc.)
+
  Le sujet doit exister réellement, votre mission est de le valoriser.
  Point de vigilance : 
  Votre objectif n’est pas de remplacer le site de votre sujet, mais de créer une unique 
@@ -19,8 +22,10 @@ système de réservation, le prix des forfaits, informations liées à la mété
  Pour cette première page web à concevoir intégralement (écriture, zoning, 
 maquettage) Il vous sera plus aisé de vous concentrer sur une partie plus restreinte 
 de votre sujet.
+
  Dans le cas de Val d’Isère, nous vous conseillerons de vous concentrer uniquement 
 sur la face de Bellevarde (création. Histoire, pourcentage de pente, etc.)
+
 - Exemples de sites officiels:
 https://www.atelier-lumieres.com/
 https://www.theweeknd.com/

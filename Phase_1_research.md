@@ -152,25 +152,25 @@ Moodboard univers Giger :
 ## A.6 - Zoning contenu principal
 
 >  Landing Page 
-![Wireframe_landing_page.png](/images_consignes/Wireframe_landing_page.png)
+![Wireframe_landing_page.png](/images_consignes/Wireframe_1.png)
 
 >  News Page 
-![Wireframe_new.png](/images_consignes/Wireframe_new.png)
+![Wireframe_new.png](/images_consignes/Wireframe_2.png)
 
 >  Exhibition Page 
-![Wireframe_exhibition.png](/images_consignes/Wireframe_exhibition.png)
+![Wireframe_exhibition.png](/images_consignes/Wireframe_3.png)
 
 > Access Page 
-![Wireframe_access.png](/images_consignes/Wireframe_access.png)
+![Wireframe_access.png](/images_consignes/Wireframe_4.png)
 
 > Short Movie page Page 
-![Wireframe_Movie.png](/images_consignes/Wireframe_Movie.png)
+![Wireframe_Movie.png](/images_consignes/Wireframe_5.png)
 
 >  Bio Page 
-![Wireframe_Bio.png](/images_consignes/Wireframe_Bio.png)
+![Wireframe_Bio.png](/images_consignes/Wireframe_6.png)
 
 >  Tickets Page 
-![Wireframe_tickets.png](/images_consignes/Wireframe_tickets.png)
+![Wireframe_tickets.png](/images_consignes/Wireframe_7.png)
 
 ## A.7 - Maquetter le contenu principal
 > Pour commencer la page d'accueil
@@ -178,10 +178,21 @@ Moodboard univers Giger :
 ![Maquette_Landing-space_2.png](/images_consignes/Maquette_Landing-space_2.png)
 ![Maquette_Landing-space_3.png](/images_consignes/Maquette_Landing-space_3.png)
 ![Maquette_Landing-space_4.png](/images_consignes/Maquette_Landing-space_4.png)
+![Maquette_News.png](/images_consignes/Maquette_News.png)
+![Maquette_Exib.png](/images_consignes/Maquette_Exi.png)
+![Maquette_Access.png](/images_consignes/Maquette_Access.png)
+![Maquette_Movies.png](/images_consignes/Maquette_Movies.png)
+![Maquette_Bio.png](/images_consignes/Maquette_Bio.png)
+
 
 
 ## A.8 - Maquetter le pied de page
+
+![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)
+
 ## A.9 – Responsive
+![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)*
+![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)
 ## A.8 – Backoffice
 ## A.9 Responsive du backoffice
 ## A.10 Conception de la newsletter
