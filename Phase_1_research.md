@@ -191,8 +191,10 @@ Moodboard univers Giger :
 ![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)
 
 ## A.9 – Responsive
-![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)*
-![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)
+
+![Maquette_Footer.png](/images_consignes/Responsive_1.png)
+![Maquette_Footer.png](/images_consignes/responsive_2.png)
+
 ## A.8 – Backoffice
 ## A.9 Responsive du backoffice
 ## A.10 Conception de la newsletter
