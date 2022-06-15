@@ -45,7 +45,7 @@ Un univers graphique avant-gardiste très mature ou l’artiste dévoile ses vis
 
  ## A.1.c - Stratégie digitale
 
-Un site web existe pour le merchandising et la biographie de l’artiste ainsi qu’un site concernant directement le musée, mais ils ont très mal vieilli, l’expérience utilisateur est très brouillonne pour 2022.
+Un site web existe pour le merchandising et la biographie de l’artiste et le musée, mais ils ont très mal vieilli, l’expérience utilisateur est très brouillonne pour 2022.
 
 Reseau Sociaux :
 
@@ -102,7 +102,7 @@ De plus le musée s'adresse aux personnes aimant les univers sombre, horrifique 
 >- Un onglet News,
 >- Un onglet concernant les expositions passés et à venir,
 >- Une biographie,
->- Un onglet presentation du musée (horaires et accés),
+>- Un onglet information sur le musée (horaires et accés),
 >- Un onglet Video.
 
 
@@ -145,55 +145,52 @@ Moodboard univers Giger :
 
 
 ## A.4 - Design System
-![Design_system.png](/images_consignes/design_system.PNG)
+![Design_system.png](/images_consignes/design-system.png)
 
 ## A.5 - Maquetter le Header
 ![header-giger.png](/images_consignes/header_Giger.png)
 ## A.6 - Zoning contenu principal
 
 >  Landing Page 
-![Wireframe_landing_page.png](/images_consignes/Wireframe_1.png)
+![Wireframe_landing_page.png](/images_consignes/wireframe%201.png)
 
->  News Page 
-![Wireframe_new.png](/images_consignes/Wireframe_2.png)
+>  Museum/News Page 
+![Wireframe_new.png](/images_consignes/wireframe%202.png)
 
->  Exhibition Page 
-![Wireframe_exhibition.png](/images_consignes/Wireframe_3.png)
+>  Gallery Page 
+![Wireframe_exhibition.png](/images_consignes/wireframe%203.png)
 
-> Access Page 
-![Wireframe_access.png](/images_consignes/Wireframe_4.png)
+> Movie Page 
+![Wireframe_access.png](/images_consignes/wireframe%204.png)
 
-> Short Movie page Page 
-![Wireframe_Movie.png](/images_consignes/Wireframe_5.png)
+> Biography Page 
+![Wireframe_Movie.png](/images_consignes/wireframe%205.png)
 
->  Bio Page 
-![Wireframe_Bio.png](/images_consignes/Wireframe_6.png)
+>  Subscribe Page 
+![Wireframe_Bio.png](/images_consignes/wireframe%206.png)
 
->  Tickets Page 
-![Wireframe_tickets.png](/images_consignes/Wireframe_7.png)
+
 
 ## A.7 - Maquetter le contenu principal
 > Pour commencer la page d'accueil
-![Maquette_Landing-space_1.png](/images_consignes/Maquette_Landing-space_1.png)
-![Maquette_Landing-space_2.png](/images_consignes/Maquette_Landing-space_2.png)
-![Maquette_Landing-space_3.png](/images_consignes/Maquette_Landing-space_3.png)
-![Maquette_Landing-space_4.png](/images_consignes/Maquette_Landing-space_4.png)
-![Maquette_News.png](/images_consignes/Maquette_News.png)
-![Maquette_Exib.png](/images_consignes/Maquette_Exi.png)
-![Maquette_Access.png](/images_consignes/Maquette_Access.png)
-![Maquette_Movies.png](/images_consignes/Maquette_Movies.png)
-![Maquette_Bio.png](/images_consignes/Maquette_Bio.png)
+![Maquette_Landing-page.png](/images_consignes/maquette%201.png)
+![Maquette_News.png](/images_consignes/maquette%20%202.png)
+![Maquette_Exib.png](/images_consignes/maquette%203.png)
+![Maquette_Access.png](/images_consignes/maquette%20%204.png)
+![Maquette_Movies.png](/images_consignes/maquette%20%205.png)
+![Maquette_Bio.png](/images_consignes/maquette%20%206.png)
 
 
 
 ## A.8 - Maquetter le pied de page
 
-![Maquette_Footer.png](/images_consignes/Maquette_Footer.png)
+![Maquette_Footer.png](/images_consignes/pied%20de%20page.PNG)
 
 ## A.9 – Responsive
 
-![Maquette_Footer.png](/images_consignes/Responsive_1.png)
-![Maquette_Footer.png](/images_consignes/responsive_2.png)
+![Maquette_Footer.png](/images_consignes/maquette%20mobile.png)
+
+![Maquette_Footer.png](/images_consignes/maquette%20mobile%20burger.png)
 
 ## A.8 – Backoffice
 ## A.9 Responsive du backoffice
