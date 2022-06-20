@@ -53,37 +53,6 @@ Reseau Sociaux :
 - Une page Instagram
 - Une page Twitter
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## A.2 - Cahier des charges
 
 AlexOnWax développement est une jeune entreprise de développement web en freelance.
@@ -184,16 +153,23 @@ Moodboard univers Giger :
 
 ## A.8 - Maquetter le pied de page
 
-![Maquette_Footer.png](/images_consignes/pied%20de%20page.PNG)
+![](/images_consignes/pied%20de%20page.PNG)
 
 ## A.9 – Responsive
 
-![Maquette_Footer.png](/images_consignes/maquette%20mobile.png)
-
-![Maquette_Footer.png](/images_consignes/maquette%20mobile%20burger.png)
+![](/images_consignes/maquette%20mobile.png)
+![](/images_consignes/maquette%20mobile%20burger.png)
 
 ## A.8 – Backoffice
+>
+![](/images_consignes/backoffice_acceuil.png)
+![](/images_consignes/backoffice.png)
+
 ## A.9 Responsive du backoffice
-## A.10 Conception de la newsletter
+>
+![](/images_consignes/backoffice_accueil_responsive.png)
+![](/images_consignes/backoffice_responsive.png)
+
+
 
 
